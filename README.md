@@ -12,4 +12,4 @@ This is new branch changes
 My copy right added to this file
 This is added in master
 
-Added a line for rebasing ,aaaaaa More changes from my feature branch
+Added a line for rebasing, More changes from my feature branch
