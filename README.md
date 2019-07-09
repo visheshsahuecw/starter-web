@@ -12,4 +12,4 @@ This is new branch changes
 My copy right added to this file
 This is added in master
 
-This is changed after Stash. Emg FixChanges from my feature branch
+This is changed after Stash. Emg Fix Changed Changes from my feature branch
