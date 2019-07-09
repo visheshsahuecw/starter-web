@@ -11,3 +11,5 @@ Me
 This is new branch changes
 My copy right added to this file
 This is added in master
+
+Added a line for rebasing 
